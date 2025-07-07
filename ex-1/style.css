@@ -6,12 +6,18 @@
 
 /* Start coding here */
 
-.introduction{
-  background-color: cornsilk;
+.padding-level-5{
   padding: 20px;
 }
 
-h1{
+.secondary-color{
+  background-color: cornsilk;
+}
+
+.branding-color{
   color: #ff7f50;
+}
+
+.triple-extra-large{
   font-size: 100px;
 }
